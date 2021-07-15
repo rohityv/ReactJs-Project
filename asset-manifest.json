@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1719ca5d.chunk.css",
+    "main.js": "/static/js/main.9bf685bb.chunk.js",
+    "main.js.map": "/static/js/main.9bf685bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
+    "static/css/2.7c7c862e.chunk.css": "/static/css/2.7c7c862e.chunk.css",
+    "static/js/2.d133b07d.chunk.js": "/static/js/2.d133b07d.chunk.js",
+    "static/js/2.d133b07d.chunk.js.map": "/static/js/2.d133b07d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7c7c862e.chunk.css.map": "/static/css/2.7c7c862e.chunk.css.map",
+    "static/css/main.1719ca5d.chunk.css.map": "/static/css/main.1719ca5d.chunk.css.map",
+    "static/js/2.d133b07d.chunk.js.LICENSE.txt": "/static/js/2.d133b07d.chunk.js.LICENSE.txt",
+    "static/media/HomeLayout.css": "/static/media/aboutus-banner.8adc4227.jpg",
+    "static/media/Contact.css": "/static/media/contact-us_opt.3ffc87e7.jpg",
+    "static/media/rohit-pic.c52028de.png": "/static/media/rohit-pic.c52028de.png",
+    "static/media/rohit-pic4.146eda4d.jpg": "/static/media/rohit-pic4.146eda4d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406dd86f.js",
+    "static/css/2.7c7c862e.chunk.css",
+    "static/js/2.d133b07d.chunk.js",
+    "static/css/main.1719ca5d.chunk.css",
+    "static/js/main.9bf685bb.chunk.js"
+  ]
+}
