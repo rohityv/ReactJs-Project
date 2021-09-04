@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/reactweb/static/css/main.6b8967ec.chunk.css",
-    "main.js": "/reactweb/static/js/main.367f10aa.chunk.js",
-    "main.js.map": "/reactweb/static/js/main.367f10aa.chunk.js.map",
-    "runtime-main.js": "/reactweb/static/js/runtime-main.36ab19c6.js",
-    "runtime-main.js.map": "/reactweb/static/js/runtime-main.36ab19c6.js.map",
-    "static/css/2.7c7c862e.chunk.css": "/reactweb/static/css/2.7c7c862e.chunk.css",
-    "static/js/2.4f916ca9.chunk.js": "/reactweb/static/js/2.4f916ca9.chunk.js",
-    "static/js/2.4f916ca9.chunk.js.map": "/reactweb/static/js/2.4f916ca9.chunk.js.map",
-    "index.html": "/reactweb/index.html",
-    "static/css/2.7c7c862e.chunk.css.map": "/reactweb/static/css/2.7c7c862e.chunk.css.map",
-    "static/css/main.6b8967ec.chunk.css.map": "/reactweb/static/css/main.6b8967ec.chunk.css.map",
-    "static/js/2.4f916ca9.chunk.js.LICENSE.txt": "/reactweb/static/js/2.4f916ca9.chunk.js.LICENSE.txt",
-    "static/media/HomeLayout.css": "/reactweb/static/media/aboutus-banner.8adc4227.jpg",
-    "static/media/Contact.css": "/reactweb/static/media/contact-us_opt.3ffc87e7.jpg",
-    "static/media/rohit-pic.c52028de.png": "/reactweb/static/media/rohit-pic.c52028de.png",
-    "static/media/rohit-pic4.146eda4d.jpg": "/reactweb/static/media/rohit-pic4.146eda4d.jpg"
+    "main.css": "/reactjs-project/static/css/main.88702ec9.chunk.css",
+    "main.js": "/reactjs-project/static/js/main.2d995bd2.chunk.js",
+    "main.js.map": "/reactjs-project/static/js/main.2d995bd2.chunk.js.map",
+    "runtime-main.js": "/reactjs-project/static/js/runtime-main.4d63edb1.js",
+    "runtime-main.js.map": "/reactjs-project/static/js/runtime-main.4d63edb1.js.map",
+    "static/css/2.7c7c862e.chunk.css": "/reactjs-project/static/css/2.7c7c862e.chunk.css",
+    "static/js/2.4f916ca9.chunk.js": "/reactjs-project/static/js/2.4f916ca9.chunk.js",
+    "static/js/2.4f916ca9.chunk.js.map": "/reactjs-project/static/js/2.4f916ca9.chunk.js.map",
+    "index.html": "/reactjs-project/index.html",
+    "static/css/2.7c7c862e.chunk.css.map": "/reactjs-project/static/css/2.7c7c862e.chunk.css.map",
+    "static/css/main.88702ec9.chunk.css.map": "/reactjs-project/static/css/main.88702ec9.chunk.css.map",
+    "static/js/2.4f916ca9.chunk.js.LICENSE.txt": "/reactjs-project/static/js/2.4f916ca9.chunk.js.LICENSE.txt",
+    "static/media/HomeLayout.css": "/reactjs-project/static/media/aboutus-banner.8adc4227.jpg",
+    "static/media/Contact.css": "/reactjs-project/static/media/contact-us_opt.3ffc87e7.jpg",
+    "static/media/rohit-pic.c52028de.png": "/reactjs-project/static/media/rohit-pic.c52028de.png",
+    "static/media/rohit-pic4.146eda4d.jpg": "/reactjs-project/static/media/rohit-pic4.146eda4d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.36ab19c6.js",
+    "static/js/runtime-main.4d63edb1.js",
     "static/css/2.7c7c862e.chunk.css",
     "static/js/2.4f916ca9.chunk.js",
-    "static/css/main.6b8967ec.chunk.css",
-    "static/js/main.367f10aa.chunk.js"
+    "static/css/main.88702ec9.chunk.css",
+    "static/js/main.2d995bd2.chunk.js"
   ]
 }
